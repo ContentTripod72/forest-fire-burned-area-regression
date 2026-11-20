@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.DS_Store
+Cs471ProjectProposal.docx
+Cs471ProjectProposal.pdf
+forest_fires.py
+
+Cs471ProjectProposal.docx
+Cs471ProjectProposal.pdf
+forest_fires.py
